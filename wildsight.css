@@ -1,0 +1,39 @@
+body {
+    background-color: #abd8fb;
+}
+h1 {
+    font-size: 10vw;
+    font-family: "Bradley Hand", sans-serif;
+}
+.footer {
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    width: 100%;
+}
+.center-pills {
+    display: inline-block;
+}
+#content {
+    max-width: 750px;
+    background-color: #fafafa;
+    border-style: outset;
+    border-color: lightblue;
+    border-width: 5px;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+a:hover {
+    text-decoration:none;
+}
+.facelike {
+    overflow:hidden;
+    width:225px;
+    height:40px;
+    padding:0px;
+    margin:10px;
+    border: none;
+}
+.instructions {
+    margin:16px;
+}
